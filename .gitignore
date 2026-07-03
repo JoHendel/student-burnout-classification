@@ -5,8 +5,11 @@ data/*.csv
 *.joblib
 threshold.json
 
-# generierte Plots
+# generierte Plots ausschliessen ...
 plots/*.png
+# ... aber die beiden README-Plots erlauben
+!plots/eda_overview.png
+!plots/threshold_tradeoff.png
 
 # Python
 __pycache__/
