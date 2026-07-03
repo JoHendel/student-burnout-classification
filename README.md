@@ -167,7 +167,7 @@ festzustellen.
 - SHAP-Analyse zur richtungsbehafteten Erklärung der Merkmale
 - Feature Engineering, z. B. Verhältnis von GenAI- zu Lernzeit oder GPA-Differenz
 - Entfernen von `Tool_Diversity` (Korrelation nahe null)
-- Hyperparameter-Optimierung für XGBoost
+- Hyperparameter-Optimierung für XGBoost.
 
 ## Verwendete Technologien
 
