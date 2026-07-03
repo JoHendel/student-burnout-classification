@@ -1,0 +1,22 @@
+# Daten (Kaggle-Lizenz -> nicht mit-committen; per Script/Anleitung laden)
+data/*.csv
+
+# Modell-Artefakte
+*.joblib
+threshold.json
+
+# generierte Plots
+plots/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
